@@ -1,0 +1,15 @@
+pandas
+scikit-learn
+xgboost
+imbalanced-learn
+pyod
+sdv
+fastapi
+uvicorn
+kafka-python
+streamlit
+matplotlib
+seaborn
+shap
+lime
+joblib
